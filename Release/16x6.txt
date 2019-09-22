@@ -1,0 +1,24 @@
+16 6
+1 1 1 1 1 1 1 1 0 1 1 0 0 0 0 0
+1 1 0 1 0 1 1 1 1 1 1 1 0 0 0 0
+1 0 1 0 1 0 1 0 1 0 0 1 1 0 0 0
+1 0 1 0 0 1 0 1 0 1 0 1 1 1 0 0
+0 1 0 1 0 1 0 1 0 1 1 0 0 1 1 0
+0 1 0 1 1 0 1 0 1 0 0 0 0 0 1 1
+max=4
+overall=50
+327
+
+VontobelTh8 Upper Bound = 14
+
+VontobelTh8 Upper Bound = 14
+
+VontobelTh8 Upper Bound = 14
+
+VontobelTh8 Upper Bound = 14
+
+VontobelTh8 Upper Bound = 14
+
+VontobelTh8 Upper Bound = 14
+
+VontobelTh8 Upper Bound = 14
