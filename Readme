@@ -1,5 +1,11 @@
-Code distance upper bound estimation using protograph of QC-LDPC  codes
+The GitHub repository provides an implementation for estimating the upper bound on code distance of QC-LDPC codes using the protograph (if circulant size large enouch to reach code distance upper bound) of QC-LDPC codes. This implementation is based on the articles by D. J. MacKay and M. C. Davey, "Evaluation of Gallager codes for short block length and high rate applications," and R. Smarandache and P. O. Vontobel, "Quasi-cyclic LDPC codes: Influence of proto- and Tanner-graph structure on minimum Hamming distance upper bounds."
 
-based on articles:
+The computation of the code distance is crucial for designing efficient error-correcting codes that can recover from errors introduced during communication. By providing an estimation of the upper bound on the code distance, this implementation allows researchers and practitioners to optimize their coding schemes to achieve better error-correction performance.
+
+QC-LDPC codes are known for their excellent error-correction performance and have been used in many practical applications. The protograph-based approach to code distance estimation is a widely used technique that has been shown to provide accurate estimates of the code distance for various types of codes.
+
+Overall, this repository offers a valuable resource for researchers and practitioners interested in optimizing their coding schemes to achieve better error-correction performance. With its support for protographs and accurate estimation of the code distance, researchers and practitioners will find this implementation valuable in exploring various strategies for designing efficient error-correcting codes with high-performance rates.
+
+References:
 D. J. MacKay and M. C. Davey, “Evaluation of Gallager codes for short block length and high rate applications,” Proc. of the IMA Workshop on Codes, System and Graphical Models, 1999. Springer-Verlag 2001, pp. 113–130
 R. Smarandache and P. O. Vontobel, “Quasi-cyclic LDPC codes: Influence of proto- and Tanner-graph structure on minimum Hamming distance upper bounds,” IEEE Trans. Inf. Theory, vol. 58, no. 2, pp. 585–607, Feb. 2012
