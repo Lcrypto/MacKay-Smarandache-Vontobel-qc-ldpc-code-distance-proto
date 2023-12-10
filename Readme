@@ -6,6 +6,6 @@ QC-LDPC codes are known for their excellent error-correction performance and hav
 
 Overall, this repository offers a valuable resource for researchers and practitioners interested in optimizing their coding schemes to achieve better error-correction performance. With its support for protographs and accurate estimation of the code distance, researchers and practitioners will find this implementation valuable in exploring various strategies for designing efficient error-correcting codes with high-performance rates.
 
-References:
-D. J. MacKay and M. C. Davey, “Evaluation of Gallager codes for short block length and high rate applications,” Proc. of the IMA Workshop on Codes, System and Graphical Models, 1999. Springer-Verlag 2001, pp. 113–130
-R. Smarandache and P. O. Vontobel, “Quasi-cyclic LDPC codes: Influence of proto- and Tanner-graph structure on minimum Hamming distance upper bounds,” IEEE Trans. Inf. Theory, vol. 58, no. 2, pp. 585–607, Feb. 2012
+# References:
+1. D. J. MacKay and M. C. Davey, “Evaluation of Gallager codes for short block length and high rate applications,” Proc. of the IMA Workshop on Codes, System and Graphical Models, 1999. Springer-Verlag 2001, pp. 113–130
+2. R. Smarandache and P. O. Vontobel, “Quasi-cyclic LDPC codes: Influence of proto- and Tanner-graph structure on minimum Hamming distance upper bounds,” IEEE Trans. Inf. Theory, vol. 58, no. 2, pp. 585–607, Feb. 2012
